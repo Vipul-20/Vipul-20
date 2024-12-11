@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm VIPUL PRAJAPATI</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'am+Vipul+Prajapati+!;" />
+</h1>
+
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
 <img src="https://thereadersea.com/wp-content/uploads/2023/07/MERN-stack-developer.jpg" width="1000px" height="400px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipullprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="vipullprajapati" /> </p>
